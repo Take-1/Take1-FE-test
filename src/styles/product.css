@@ -1,0 +1,12 @@
+.product {
+  margin: 10px 0;
+}
+
+.productActive {
+  font-weight: bold;
+}
+
+.productDescription {
+  margin-bottom: 40px;
+  font-style: italic;
+}

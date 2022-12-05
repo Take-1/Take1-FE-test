@@ -1,0 +1,18 @@
+.selectedCategory {
+  font-weight: bold;
+}
+
+.categoryList {
+  list-style: none;
+  padding:0;
+}
+
+.categoryList li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.categoryList li a {
+  text-decoration: none;
+  color: blue;
+}
